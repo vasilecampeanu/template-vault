@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "bbad9e22ba46065a",
+    "type": "split",
+    "children": [
+      {
+        "id": "b85fd5c7563686c3",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6067adb0b96c649a",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca8143c9aeeb1e89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2c50d2d60b1dfb25",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "50c4dfd7b5fa13ac",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5963f6fae8ddc72f",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "23d58f2f2b89e9f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "1630a8a9741be84a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b06b3074234d3ff",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "0252821f9de8e0b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9529c67ea562d7c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f6d3a1fa9c7b7efa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9432232833cbbdbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "7394cd31100774c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "b85fd5c7563686c3",
+  "lastOpenFiles": [
+    "excalidraw/templates/template.excalidraw.md",
+    "VTemplate GView.md",
+    "excalidraw/inbox/Hello.excalidraw.md",
+    "excalidraw/scripts/Downloaded/Repeat Elements.md",
+    "excalidraw/scripts/Downloaded/Repeat Elements.svg",
+    "excalidraw/inbox/Drawing 2022-03-01 20.54.12.excalidraw.md",
+    "excalidraw/inbox/Drawing 2022-03-01 20.53.02.excalidraw.md",
+    "inbox/Template Vault.md",
+    "templates/meta.md",
+    "README.md"
+  ]
+}
