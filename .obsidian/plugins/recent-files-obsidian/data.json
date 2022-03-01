@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "template.excalidraw",
-      "path": "excalidraw/templates/template.excalidraw.md"
+      "basename": "Template Vault",
+      "path": "inbox/Template Vault.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
     },
     {
       "basename": "VTemplate GView",
@@ -13,14 +17,16 @@
       "path": "excalidraw/inbox/Hello.excalidraw.md"
     },
     {
-      "basename": "Repeat Elements",
-      "path": "excalidraw/scripts/Downloaded/Repeat Elements.md"
+      "basename": "meta",
+      "path": "templates/meta.md"
     },
     {
-      "basename": "Repeat Elements",
-      "path": "excalidraw/scripts/Downloaded/Repeat Elements.svg"
+      "basename": "banner-document",
+      "path": "attachments/banners/banner-document.jpg"
     }
   ],
-  "omittedPaths": [],
+  "omittedPaths": [
+    ""
+  ],
   "maxLength": null
 }

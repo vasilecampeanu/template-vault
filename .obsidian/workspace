@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "b85fd5c7563686c3",
+        "id": "b935ae7b4c881924",
         "type": "leaf",
         "state": {
           "type": "graph",
@@ -64,7 +64,7 @@
     "type": "split",
     "children": [
       {
-        "id": "1630a8a9741be84a",
+        "id": "539cc974bc564188",
         "type": "tabs",
         "children": [
           {
@@ -78,9 +78,28 @@
         ]
       },
       {
-        "id": "0252821f9de8e0b9",
+        "id": "f045fcf4d5e781df",
         "type": "tabs",
         "children": [
+          {
+            "id": "7394cd31100774c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "9432232833cbbdbb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
           {
             "id": "9529c67ea562d7c6",
             "type": "leaf",
@@ -107,25 +126,6 @@
                 "unlinkedCollapsed": true
               }
             }
-          },
-          {
-            "id": "9432232833cbbdbb",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true
-              }
-            }
-          },
-          {
-            "id": "7394cd31100774c4",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {}
-            }
           }
         ],
         "currentTab": 3
@@ -135,17 +135,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b85fd5c7563686c3",
+  "active": "b935ae7b4c881924",
   "lastOpenFiles": [
-    "excalidraw/templates/template.excalidraw.md",
+    "inbox/Template Vault.md",
+    "README.md",
     "VTemplate GView.md",
     "excalidraw/inbox/Hello.excalidraw.md",
-    "excalidraw/scripts/Downloaded/Repeat Elements.md",
-    "excalidraw/scripts/Downloaded/Repeat Elements.svg",
-    "excalidraw/inbox/Drawing 2022-03-01 20.54.12.excalidraw.md",
-    "excalidraw/inbox/Drawing 2022-03-01 20.53.02.excalidraw.md",
-    "inbox/Template Vault.md",
     "templates/meta.md",
-    "README.md"
+    "attachments/banners/banner-document.jpg",
+    "inbox/Untitled.md",
+    "attachments/banners/banner-vault.jpg",
+    "excalidraw/templates/template.excalidraw.md",
+    "attachments/banners/banner-template.jpg"
   ]
 }
