@@ -13,5 +13,7 @@
   "obsidian-kanban",
   "obsidian-excalidraw-plugin",
   "recent-files-obsidian",
-  "obsidian-contextual-typography"
+  "obsidian-contextual-typography",
+  "obsidian-electron-window-tweaker",
+  "open-vscode"
 ]

@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Template Vault",
-      "path": "inbox/Template Vault.md"
+      "basename": "Hello World",
+      "path": "inbox/Hello World.md"
+    },
+    {
+      "basename": "Hello.excalidraw",
+      "path": "sketches/inbox/Hello.excalidraw.md"
+    },
+    {
+      "basename": "Template Vault Index",
+      "path": "Template Vault Index.md"
+    },
+    {
+      "basename": "Fragment View",
+      "path": "Fragment View.md"
     },
     {
       "basename": "README",
       "path": "README.md"
     },
     {
-      "basename": "VTemplate GView",
-      "path": "VTemplate GView.md"
-    },
-    {
-      "basename": "Hello.excalidraw",
-      "path": "excalidraw/inbox/Hello.excalidraw.md"
+      "basename": "template.excalidraw",
+      "path": "sketches/templates/template.excalidraw.md"
     },
     {
       "basename": "meta",
       "path": "templates/meta.md"
+    },
+    {
+      "basename": "Repeat Elements",
+      "path": "sketches/scripts/Downloaded/Repeat Elements.svg"
+    },
+    {
+      "basename": "Repeat Elements",
+      "path": "sketches/scripts/Downloaded/Repeat Elements.md"
     },
     {
       "basename": "banner-document",

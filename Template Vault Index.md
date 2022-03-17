@@ -1,11 +1,10 @@
 ---
 creation_date: Tuesday 1st March 2022 19:55:37
 date: 2022-03-01
-tags: 
-banner: "![[banner-vault.jpg]]"
+tags: index MOC
 ---
 
-# [[Template Vault]]
+# [[Template Vault Index]]
 
 `Date:` [[2022-03-01]]
 
@@ -13,7 +12,7 @@ banner: "![[banner-vault.jpg]]"
 
 `Description:`
 
-> This is just a template
+> This is a template
 
 `Related:`
 `Reference:`

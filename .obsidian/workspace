@@ -4,11 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "b935ae7b4c881924",
+        "id": "b538120193752cb1",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "inbox/Hello World.md",
+            "mode": "preview",
+            "backlinks": true,
+            "source": false
+          }
         }
       }
     ],
@@ -64,20 +69,6 @@
     "type": "split",
     "children": [
       {
-        "id": "539cc974bc564188",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7b06b3074234d3ff",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
-          }
-        ]
-      },
-      {
         "id": "f045fcf4d5e781df",
         "type": "tabs",
         "children": [
@@ -86,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "inbox/Hello World.md"
+              }
             }
           },
           {
@@ -106,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "inbox/Hello World.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,30 +116,37 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "inbox/Hello World.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "7b06b3074234d3ff",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "b935ae7b4c881924",
+  "active": "b538120193752cb1",
   "lastOpenFiles": [
-    "inbox/Template Vault.md",
-    "README.md",
-    "VTemplate GView.md",
+    "inbox/Hello World.md",
+    "sketches/inbox/Hello.excalidraw.md",
+    "Template Vault Index.md",
+    "sketches/inbox/Drawing 2022-03-17 17.37.59.excalidraw.md",
     "excalidraw/inbox/Hello.excalidraw.md",
+    "Fragment View.md",
+    "README.md",
+    "sketches/templates/template.excalidraw.md",
     "templates/meta.md",
-    "attachments/banners/banner-document.jpg",
-    "inbox/Untitled.md",
-    "attachments/banners/banner-vault.jpg",
-    "excalidraw/templates/template.excalidraw.md",
-    "attachments/banners/banner-template.jpg"
+    "sketches/scripts/Downloaded/Repeat Elements.svg"
   ]
 }
