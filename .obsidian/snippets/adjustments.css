@@ -1,11 +1,13 @@
 /* Excalidraw helper icon adjustments */
+/* 
 .help-icon
 {
     position: absolute;
     right: 13px;
     bottom: 45px;
-    /* display: none !important; */
-}
+    display: none !important;
+} 
+*/
 
 /* Metadata - center metdata */
 .frontmatter-section-label

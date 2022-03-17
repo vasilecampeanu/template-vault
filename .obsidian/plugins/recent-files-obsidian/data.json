@@ -5,12 +5,20 @@
       "path": "inbox/Hello World.md"
     },
     {
+      "basename": "Template Vault Index",
+      "path": "Template Vault Index.md"
+    },
+    {
       "basename": "Hello.excalidraw",
       "path": "sketches/inbox/Hello.excalidraw.md"
     },
     {
-      "basename": "Template Vault Index",
-      "path": "Template Vault Index.md"
+      "basename": "Hello.excalidraw",
+      "path": "sketches/inbox/Hello.excalidraw.svg"
+    },
+    {
+      "basename": "meta",
+      "path": "templates/meta.md"
     },
     {
       "basename": "Fragment View",
@@ -23,10 +31,6 @@
     {
       "basename": "template.excalidraw",
       "path": "sketches/templates/template.excalidraw.md"
-    },
-    {
-      "basename": "meta",
-      "path": "templates/meta.md"
     },
     {
       "basename": "Repeat Elements",

@@ -18,5 +18,3 @@ tags: index MOC
 `Reference:`
 
 ---
-
-![[Hello.excalidraw|center]]
