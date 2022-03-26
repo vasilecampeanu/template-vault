@@ -1,22 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "Hello World",
-      "path": "inbox/Hello World.md"
-    },
-    {
-      "basename": "Template Vault Index",
-      "path": "Template Vault Index.md"
-    },
-    {
-      "basename": "Hello.excalidraw",
-      "path": "sketches/inbox/Hello.excalidraw.md"
-    },
-    {
-      "basename": "Hello.excalidraw",
-      "path": "sketches/inbox/Hello.excalidraw.svg"
-    },
-    {
       "basename": "meta",
       "path": "templates/meta.md"
     },
@@ -27,6 +11,22 @@
     {
       "basename": "README",
       "path": "README.md"
+    },
+    {
+      "basename": "Template Vault Index",
+      "path": "Template Vault Index.md"
+    },
+    {
+      "basename": "Hello.excalidraw",
+      "path": "sketches/inbox/Hello.excalidraw.svg"
+    },
+    {
+      "basename": "Hello.excalidraw",
+      "path": "sketches/inbox/Hello.excalidraw.md"
+    },
+    {
+      "basename": "Hello World",
+      "path": "inbox/Hello World.md"
     },
     {
       "basename": "template.excalidraw",

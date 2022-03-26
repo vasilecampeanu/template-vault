@@ -1,15 +1,12 @@
 /* Excalidraw helper icon adjustments */
-/* 
+
 .help-icon
 {
-    position: absolute;
-    right: 13px;
-    bottom: 45px;
     display: none !important;
 } 
-*/
 
-/* Metadata - center metdata */
+
+/* Center verticaly metdata fields */
 .frontmatter-section-label
 {
     display: grid;
@@ -48,15 +45,4 @@ img
     color: #FF8702;
     background-color: #FF8702;
     /* background-image: linear-gradient(62deg, var(--text-accent) 0%, #ffcc00 100%) !important; */
-}
-
-/* Anki bridge */
-.plugin-obsidian-ankibridge
-{
-    display: none !important;
-}
-
-.ankibridge-card-config
-{
-    display: none !important;
 }
